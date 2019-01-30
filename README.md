@@ -1,4 +1,7 @@
 # docker-webdav
+
+This is just a simple webdav setup I use for Joplin
+
 ## docker-compose
 ```
 version: '3'
